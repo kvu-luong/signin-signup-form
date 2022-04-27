@@ -3,7 +3,7 @@
 [Image Website](https://undraw.co)
 ## Step by Step
 
-# Step 1:
+### Step 1:
 
 Create sign-in form
 + Input field
@@ -66,11 +66,11 @@ Create sign-in form
     html: <div><a><i class="fab fa-facebook-f"></i></a></div>
     css: User border to make circle 
 
-# Step 2
+### Step 2
 
 Copy sign-in form to create sign-up.
 
-# Step 3:
+### Step 3:
 
 Move sign up and sign in form to the right and use grid to make it display overlap
 
@@ -116,7 +116,7 @@ form.sign-in-form {
 }
 ```
 
-# Step 4:
+### Step 4:
 
 Make background blue color:
 - Use border radius to make a curve
@@ -146,7 +146,7 @@ Make background blue color:
     }
 ```
 
-# Step 5
+### Step 5
 
 Create pannel to show some text and button to change from sign-in to sign-up form and reverse
 
@@ -156,7 +156,7 @@ Create pannel to show some text and button to change from sign-in to sign-up for
 
 - Move other pannel with transform
 
-# Step 6: Animate
+### Step 6: Animate
 
 Using script to add / remove "sign-up-mode", and css with this class.
 
