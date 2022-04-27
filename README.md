@@ -116,7 +116,7 @@ form.sign-in-form {
 }
 ```
 
-# Step 3:
+# Step 4:
 
 Make background blue color:
 - Use border radius to make a curve
@@ -146,7 +146,7 @@ Make background blue color:
     }
 ```
 
-# Step 4
+# Step 5
 
 Create pannel to show some text and button to change from sign-in to sign-up form and reverse
 
@@ -156,7 +156,7 @@ Create pannel to show some text and button to change from sign-in to sign-up for
 
 - Move other pannel with transform
 
-# Step 4: Animate
+# Step 6: Animate
 
 Using script to add / remove "sign-up-mode", and css with this class.
 
